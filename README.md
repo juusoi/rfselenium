@@ -1,2 +1,2 @@
 # rfselenium
-Web testing with Docker
+Testing with android in Docker
